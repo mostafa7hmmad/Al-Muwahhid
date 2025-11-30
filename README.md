@@ -1,6 +1,6 @@
 # Al-Muwahhid
 ![m](bnw2846.jpg)
-![m](bkb-ol05600.jpg)
+
 ![m](25248471.jpg)
 ```
 agent_project/
