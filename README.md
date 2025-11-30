@@ -1,7 +1,5 @@
 # Al-Muwahhid
-![m](bnw2846.jpg)
-
-![m](25248471.jpg)
+![m](bnw2846.jpg)![m](25248471.jpg)
 ```
 agent_project/
 │
