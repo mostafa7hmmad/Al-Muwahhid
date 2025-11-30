@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy>
+pdfplumber
+PyPDF2
+requests
+beautifulsoup4
+python-dotenv
+google-generativeai
+Pillow
